@@ -2,6 +2,8 @@
 def speak_to_grandma(string)
   if string = "I LOVE YOU GRANDMA"
     p "I LOVE YOU TOO PUMPKIN!"
+  else 
+    p "HUH?! SPEAK UP, SONNY!"
   end 
 end 
 
